@@ -1,0 +1,15 @@
+
+int main(){
+    float a[4];
+    a[0] = 5.4;
+    a[1] = 4.3;
+    a[2] = 86.4;
+    a[10] = 60.0;
+    float b = a[10];
+
+    if(b > a[0]+100.0){
+      println("dobrze");
+    }else{
+      println("zle");
+    }
+}

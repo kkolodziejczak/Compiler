@@ -1,0 +1,10 @@
+
+int main(){
+  int liczba;
+  in(liczba);
+
+  if(liczba % 2 == 0){
+    println("Liczba ktora podalas/es jest liczba parzysta!");
+  }else
+    println("Liczba nie jest liczba parzysta!");
+}

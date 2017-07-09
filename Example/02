@@ -1,0 +1,8 @@
+int main(){
+    int a = 3;
+    float b = 12.2;
+
+    println(a+b*2);
+    println((a+5)*4/2);
+    println(a+5*4/2);
+}

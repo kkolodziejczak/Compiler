@@ -1,0 +1,12 @@
+int main(){
+    int i = 0;
+    int n;
+    println("Podaj ilosc iteracji petli: ");
+    in(n);
+    
+    println("ilosc petli /2: ");
+    while(i < n/2){
+        println(i);
+        i = i + 1;
+    }
+}

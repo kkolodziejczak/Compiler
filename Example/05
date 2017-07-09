@@ -1,0 +1,13 @@
+int main(){
+    float a;
+    print("Podaj wartosc zmienno przecinkowa: ");
+    in(a);
+    println("");
+    println(a);
+
+    int b;
+    print("Podaj wartosc calkowita: ");
+    in(b);
+    println("");
+    println(b);
+}

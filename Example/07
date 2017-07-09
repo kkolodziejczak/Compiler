@@ -1,0 +1,10 @@
+int main(){
+    int i = 0;
+    int n;
+    println("Podaj ilosc iteracji petli: ");
+    in(n);
+    while(i < n){
+        println(i);
+        i = i + 1;
+    }
+}

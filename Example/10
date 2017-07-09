@@ -1,0 +1,4 @@
+int main(){
+  println("Przykladowy string ktory mozemy wyswietlic!");
+  print("Stringi akceptuja symbole '\\t' \t oraz '\\n'\n . <====");
+}

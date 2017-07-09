@@ -1,0 +1,12 @@
+int main(){
+    float a;
+    print("Podaj wartosc zmienno przecinkowa: ");
+    in(a);
+    println("");
+    println(a);
+
+    if(a == 1.0)
+        println("Tak, a == 1.0");
+    else
+        println("Nie 1 != 1.0!");
+}

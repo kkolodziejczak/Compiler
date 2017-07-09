@@ -1,0 +1,8 @@
+int main(){
+    println("Wyswietlic numery iteracji petli do 10.");
+    int i = 0;
+    while(i < 10){
+        println(i);
+        i = i + 1;
+    }
+}
