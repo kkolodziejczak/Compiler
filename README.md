@@ -28,7 +28,7 @@ There is also an option to run your program from command line with following com
 ``$ java -jar "PathToYoutMarsProgram" "FileWithAssemblyCode" ``
 
 --------------
-# Lanugage documentation
+# Language documentation
 
 ### Data types Int and Float
 - With variable declaration we are required to define their type,
